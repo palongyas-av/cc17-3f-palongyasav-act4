@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="radioButton">Amazing (20%)</string>
+    <string name="radioButton2">Good (18%)</string>
+    <string name="radioButton3">Ok (15%)</string>
+    <string name="numberInput">Amount</string>
+    <string name="textView">How was the service?</string>
+    <string name="button">Calculate</string>
+    <string name="switch2">Round up tip?                                                                   </string>
+    <string name="textView3"> </string>
+    <string name="textView4">Tip Amount: $</string>
+</resources>
